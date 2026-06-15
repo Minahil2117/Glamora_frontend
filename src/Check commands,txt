@@ -1,0 +1,5 @@
+What               URL
+Admin panel        http://localhost/glamora_backend/admin.html
+Products API       http://localhost/glamora_backend/api/products.php
+Orders API         http://localhost/glamora_backend/api/orders.php
+Categories API     http://localhost/glamora_backend/api/categories.php
