@@ -274,17 +274,6 @@ The AI Stylist matches keywords in your message to recommend curated looks. Try 
 **Typography:** Serif display headings + clean sans-serif body text for a refined editorial feel.
 
 ---
-
-## 📸 Screenshots
-
-> _Add screenshots here once deployed._
->
-> ```
-> ![Shop](docs/shop.png)
-> ![AI Stylist](docs/ai-stylist.png)
-> ![Checkout](docs/checkout.png)
-> ```
-
 ---
 
 ## 🛣️ Roadmap
