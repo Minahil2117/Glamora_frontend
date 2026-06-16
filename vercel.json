@@ -1,5 +1,5 @@
 {
   "version": 2,
-  "buildCommand": "npx vite build",
+  "buildCommand": "npm exec vite build",
   "installCommand": "npm install"
 }
