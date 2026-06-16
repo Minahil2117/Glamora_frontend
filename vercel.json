@@ -1,1 +1,5 @@
-﻿{"installCommand": "npm install", "buildCommand": "npx vite build"}
+{
+  "version": 2,
+  "buildCommand": "npx vite build",
+  "installCommand": "npm install"
+}
