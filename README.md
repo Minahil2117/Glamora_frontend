@@ -50,7 +50,7 @@ Glamora blends high-end editorial design with intelligent shopping features — 
 - 💾 **Persistent state** — cart, wishlist, and orders survive page reloads via `localStorage`.
 
 The UI follows an elegant editorial aesthetic with a warm cream + deep wine palette, serif display typography, and smooth Framer Motion animations.
-**Live Link:** glamora-staging.vercel.app
+
 
 ---
 
