@@ -38,8 +38,6 @@ Glamora blends high-end editorial design with intelligent shopping features — 
 - [📄 License](#-license)
 
 ---
-
-## Live Link: https://glamora-staging.vercel.app/
 ## ✨ Overview
 
 **Glamora** is a full-featured luxury fashion storefront concept that recreates the feel of a high-end boutique online. Beyond a standard product catalog, it ships with genuinely useful smart shopping tools:
